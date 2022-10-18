@@ -1,8 +1,7 @@
-   -  👋 Hi, I’m  Milena Gamarra
-- 👀 I’m interested in  atuar na area de TI,  tanto em progamação back e fron ou infraestrutura 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  
+Oi, meu nome e Milena Gamarra, atualmente estou no ultimo semestre do curso de ads e estou em busca de uma oprtunidade na area de TI
+Possuo conhecimento basico nas linguagens javascript, C# e HTML, logica de progamação e banco de dados.
+Estou em busca de uma oportundiade para excercer todo conhecimento adquirido na faculdade.
+
   
 <!--- 
 Gamarrami/Gamarrami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
